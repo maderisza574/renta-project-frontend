@@ -1,11 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
 .page__name {
   font-weight: 40px;
   color: black;
-  margin-top: 6px;
+  margin-top: 30px;
   margin-left: 20px;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 28px;
+  display: flex !important;
+  font-family: "Nunito";
+}
+.rowbutton {
+  margin-top: 35px;
+  display: flex !important;
 }
 .vehicle_image {
   margin-top: 50px;
   margin-left: 30px;
+}
+.location {
+  font-family: "Nunito";
+}
+.status {
+  font-family: "Nunito";
+  margin-top: 30px;
+}
+.avail {
+  color: #087e0d;
+}
+.prepay {
+  color: #9b0a0a;
+}
+.Vehicle_name {
+  margin-top: 100px;
+}
+.button_group {
+  /* margin-left: 100px; */
+  margin-top: 30px;
+}
+.price_vehicle {
+  margin-top: 20px;
+  margin-left: 170px;
+}
+.decre {
+  margin-right: 200px !important;
+  background: #ffcd61;
+  border-radius: 4px;
+  border: none;
+  width: 50px;
+  color: #000000;
+  font-size: 30px;
+}
+.incre {
+  margin-left: 150px !important;
+  background: rgba(203, 203, 212, 0.2);
+  border-radius: 4px;
+  border: none;
+  width: 50px;
+  color: #000000;
+  font-size: 30px;
+}
+.button_chat {
+  width: 300px !important;
+  height: 80px;
+  background: #393939;
+  border-radius: 10px;
+  color: #ffcd61;
+  margin-left: 30px;
+  font-size: 30px;
+  font-family: "Nunito";
+  border: none;
+}
+.button_reservation {
+  width: 300px !important;
+  height: 80px;
+  background: #ffcd61;
+  border-radius: 10px;
+  color: #000000;
+  margin-left: 280px;
+  font-size: 30px;
+  font-family: "Nunito";
+  border: none;
+}
+.button_like {
+  width: 200px !important;
+  height: 80px;
+  background: #393939;
+  border-radius: 10px;
+  color: #ffcd61;
+  margin-left: 500px;
+  border: none;
+}
+.iconlove {
+  margin-top: 25px;
+  margin-left: 40px;
+}
+.icon_love {
+  margin-top: 20px;
+  font-size: 30px;
+}
+.right_row_page_detail {
+  margin-left: 470px;
+  margin-top: 50px;
+  position: absolute;
+}
+.left_row_page_detail {
+  margin-top: 50px;
+  position: absolute;
+  z-index: 2;
+}
+.image_pagination {
+  margin-left: 60px;
 }
