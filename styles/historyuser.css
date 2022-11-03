@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
+.history_search {
+  width: 130vh;
+}
+.history_filter {
+  width: 30vh;
+}
+.history_tittle {
+  font-size: 20px;
+  font-family: "Nunito";
+  margin-bottom: 20px;
+  margin-left: 30px !important;
+  margin-top: 20px !important;
+}
+.history_tittle_2 {
+  font-size: 20px;
+  margin-left: 30px !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px;
+}
+.history_info_vehicle {
+  font-size: 9px !important;
+  font-family: "Nunito";
+}
+.history_status {
+  color: #087e0d;
+}
+.history_button_del {
+  width: 120px;
+  height: 50px;
+  background: #ffcd61;
+  box-shadow: 0px 0px 20px rgba(251, 143, 29, 0.4);
+  border-radius: 10px;
+  color: black;
+  border: none;
+}
+.history_message {
+  font-family: "Nunito";
+  font-style: normal;
+}
+.card_right_tittle {
+  font-family: "Playfair Display";
+  color: #393939;
+  margin-left: 150px !important;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  margin-top: 10px;
+}
+.new_arrival_img {
+  margin-left: 60px;
+}
+.info_vehicle {
+  width: 150px;
+  position: absolute;
+}
+
+.card_arrival {
+  width: 286px;
+  height: 360px;
+  background-color: aqua;
+}
+.card_text {
+  background-color: white !important;
+  margin-top: -60px;
+  width: 130px;
+  height: 70px !important;
+  border: none;
+}
+.history_more_button {
+  margin-top: 20px;
+  margin-left: 180px !important;
+  color: #b8becd;
+  font-family: "Nunito";
+}
+.history_row_icon {
+  margin-left: 20px;
+}
