@@ -1,0 +1,11 @@
+.page__name {
+  font-weight: 40px;
+  color: black;
+  margin-top: 6px;
+  margin-left: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.vehicle_image {
+  margin-top: 50px;
+  margin-left: 30px;
+}
